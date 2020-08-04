@@ -1,0 +1,18 @@
+Function(s):
+************
+	Victory_Decider(o1, o2):
+		This Function Will Return An Integral After Checking The Options o1 And o2.
+		Function Retrunrs The Following Values :
+					0 - Player Won
+					1 - Computer Won
+					2 - Game Tied
+	***********************************************************************************
+	
+	Victory_Message(code):
+		This Function Will Pop Up An Message Depending Upon The Code.
+		Function Displays Either Of The Messages :
+				code			Message
+				0		Congrats User ! You Won The Game
+				1 		Computer Won The Game
+				2 		Game Tied
+	************************************************************************************
