@@ -7,8 +7,8 @@
 <h3 id="sf">Special Features</h3>
 <ol>
     <li>Frameless GUI Application</li>
-		<li>Excellent Appearence Of UI</li>
-		<li>Computer Will Be Your Opponent Which Will Give The Feel Of Playing With An Friend</li>
+    <li>Excellent Appearence Of UI</li>
+    <li>Computer Will Be Your Opponent Which Will Give The Feel Of Playing With An Friend</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
 <img src="Snips/p1.PNG">
@@ -23,9 +23,9 @@ The File ("Documentation.txt") Includes The Documentation For The Following:<br>
 </ul><hr>
 <h3 id="downloads">Downloads</h3>
 <a href="Snips.rar">Download Gallery</a><br>
-<a href="Standalone_Executable.exe">Download Standalone Executable</a><br>
+<a href="rps.exe">Download Standalone Executable</a><br>
 <a href="Documentation.txt">Download Complete Documentation</a><br>
-<a href="tic_tac_toe.py">Download tic_tac_toe.py [main]</a><br>
-<a href="t3.rar">Download Complete Source Code [main, module, resources]</a><br>
+<a href="rps.py">Download rps.py [main]</a><br>
+<a href="sps.rar">Download Complete Source Code [main, module, resources]</a><br>
 <hr>
 <a href="#top">Go To Table Of Contents</a>
